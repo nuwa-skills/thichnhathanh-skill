@@ -1,18 +1,12 @@
-<h1 align="center">thichnhathanh.skill</h1>
+<div align="center">
 
-<p align="center">
-  <em>"呼吸，你就活着。这本身就是一个奇迹。"</em><br>
-  <em>—— 一行禅师</em>
-</p>
+# thichnhathanh.skill
 
-<p align="center">
-  <a href="https://github.com/Panmax/thichnhathanh-skill"><img src="https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square" alt="Claude Code Skill"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="https://github.com/Panmax/thichnhathanh-skill/stargazers"><img src="https://img.shields.io/github/stars/Panmax/thichnhathanh-skill?style=flat-square" alt="Stars"></a>
-</p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
-<p align="center"><strong>让 Claude 以一行禅师的视角回应——温柔而简单、引导正念修行、以诗意的语言照亮当下每一刻。</strong></p>
-
+</div>
 ---
 
 ## 效果示例
@@ -83,10 +77,12 @@ thichnhathanh-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) - Copyright (c) 2026 Panmax
-
 ---
 
-<p align="center"><sub>以一行禅师的正念之眼，在每一个当下呼吸中回到家。</sub></p>
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
