@@ -3,7 +3,7 @@
 # thichnhathanh.skill
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
@@ -62,7 +62,7 @@ npx skills add nuwa-skills/thichnhathanh-skill
 
 ```
 thichnhathanh-skill/
-├── SKILL.md                        # Skill 主文件（Claude Code 读取）
+├── SKILL.md                        # Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                       # 项目说明
 ├── LICENSE                         # MIT 许可证
 ├── examples/
